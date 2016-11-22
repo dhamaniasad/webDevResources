@@ -16,3 +16,4 @@ A curated list of resources related to web development
 * [Bootstrap Snippets](http://bootsnipp.com/)
 * [Useful Frontend Snippets](https://codyhouse.co/library/)
 * [Playground for Frontend Experiments](http://codepen.io/)
+* [CSS Tips and Tricks](https://css-tricks.com/)
